@@ -27,6 +27,9 @@ Sou **Graduando em Bacharelado de Engenharia de Computação - UEFS**.
 
 <img alt="Arduino_logo" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"> 
 <img alt="RaspberryPi_logo" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white"> 
+<img alt="OrangePi_logo" src="https://img.shields.io/badge/Orange%20Pi-F68900?style=for-the-badge&logo=orangepiplus&logoColor=white">
+<img alt="ESP32_logo" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=esphome&logoColor=white">
+<img alt="IntelFPGA_logo" src="https://img.shields.io/badge/Intel%20FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 
 </div>
 
@@ -47,5 +50,5 @@ Sou **Graduando em Bacharelado de Engenharia de Computação - UEFS**.
 
 Caso queira trocar uma ideia, fique à vontade para me chamar!
 
-📧 **Email:** luisbaiano.dev@gmail.com
+📧 **Email:** luisoft.77@gmail.com
 
