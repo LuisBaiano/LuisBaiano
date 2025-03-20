@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou Luis Felipe
 
-Sou **Técnico em Análises e Desenvolvimento de Sistemas** pelo **SENAI** e **Graduando em Bacharelado de Engenharia de Computação - UEFS**.
+Sou **Graduando em Bacharelado de Engenharia de Computação - UEFS**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisBaiano)
 
